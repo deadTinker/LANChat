@@ -65,7 +65,7 @@ The application uses:
 
 ## User Goes Offline
 
-![Offline State](screenshots/Brad_goes_invisible.png)
+![Offline State](screenshots/typing_indicator.png)
 
 ---
 
