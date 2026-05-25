@@ -63,7 +63,7 @@ The application uses:
 
 ---
 
-## User Goes Offline
+## User Goes Invisible
 
 ![Offline State](screenshots/typing_indicator.png)
 
