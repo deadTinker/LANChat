@@ -53,7 +53,7 @@ The application uses:
 
 ## Main Chat Interface
 
-![Main Chat](screenshots/main_chat.png)
+![Offline State](screenshots/typing_indicator.png)
 
 ---
 
@@ -65,7 +65,7 @@ The application uses:
 
 ## User Goes Invisible
 
-![Offline State](screenshots/typing_indicator.png)
+![Main Chat](screenshots/main_chat.png)
 
 ---
 
